@@ -1,0 +1,77 @@
+@charset "UFT-8";
+
+*{
+   box-sizing: border-box;
+   margin: 0%;
+   padding: 0%;
+}
+
+div{
+  display: grid;
+  height: 250PX;
+  width: 250px;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 25px;
+  margin: 10px;
+  top: 20%;
+  left: 19%;
+  position: relative;
+  transform: translate( -20, -30);
+padding: 40px 40px 0px 40px;
+}
+
+.C1{
+   background-image: url("compu3.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.C2{
+   background-image: url("compu4.webp");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.C3{
+  background-image: url("compu3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.C4{
+   background-image: url("compu4.webp");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.C4{
+   background-image: url("compu4.webp");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+
+.C6{
+   background-image: url("compu4.webp");
+   background-repeat: no-repeat
+   background-size: cover;
+}
+
+.C7{
+   background-image: url("compu5.webp");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.C8{
+   background-image: url("compu4.webp");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.C9{
+   background-image: url("compu5.webp");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
